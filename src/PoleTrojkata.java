@@ -7,10 +7,10 @@ public class PoleTrojkata {
         Scanner scanner = new Scanner(System.in);
         int a = scanner.nextInt();
 
-        System.out.println("Enter the length of the side a:");
+        System.out.println("Enter the length of the side b:");
         int b = scanner.nextInt();
 
-        System.out.println("Enter the length of the side a:");
+        System.out.println("Enter the length of the side c:");
         int c = scanner.nextInt();
 
         if (((a+b > c) && (b+c > a) && (a+c >b)) && (a*a + b*b == c*c) ) {
