@@ -1,0 +1,14 @@
+psvm - tworzy public static void main
+sout - tworzy komendę wyświetlenia w konsoli - System.out.println("Hello world.");
+rzutowanie na inny typ zmiennej wykonuje się wstawiająć nowy typ zmiennej w nawiasie () przed zmienną
+klasy - od wielkiej litery, zmienne od małej, stałe - wszystko wielkimi
+piszemy po angielsku!!!
+Scanner nazwa = new Scanner(System.in) - wprowadzanie wartości z klawiatury, Scanner należy dodać do programu
+import java.util.Scanner; lub PPM
+even - parzyste
+odd - nieparzyste
+java odróżnia wielkość liter, można nazywać zmienne tak jak typ tylko że od małej litery
+System.in - pobiera od użytkownika to co wpisał
+&& > || - najpierw wykonuje się &&
+aplikacje lżejsze lepiej dać na początku do sprawdzenia, na przyszłość
+ctrl + alt + m - tworzenie metody

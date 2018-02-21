@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class loops {
     public static void main(String[] args) {
+        forLoopExample();
+
+    }
+
+    private static void forLoopExample() {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Insert number of elements to multiply:");
@@ -16,6 +21,5 @@ public class loops {
         }
 
         System.out.println("End of program.");
-
     }
 }
