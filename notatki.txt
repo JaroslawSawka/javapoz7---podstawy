@@ -12,3 +12,6 @@ System.in - pobiera od użytkownika to co wpisał
 && > || - najpierw wykonuje się &&
 aplikacje lżejsze lepiej dać na początku do sprawdzenia, na przyszłość
 ctrl + alt + m - tworzenie metody
+ctrl + alt + enter - tworzy linie nad tą na której się znajduję
+shift + enter - przechodzi do końca linii
+ctrl + / - komentowanie kilku liczb na raz
