@@ -2,7 +2,7 @@ package drugie;
 
 import java.util.Scanner;
 
-public class loops {
+public class Loop {
     public static void main(String[] args) {
         forLoopExample();
 

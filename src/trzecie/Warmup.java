@@ -2,7 +2,7 @@ package trzecie;
 
 import java.util.Scanner;
 
-public class warmup {
+public class Warmup {
     public static void main(String[] args) {
 
         // zad 1
@@ -79,7 +79,7 @@ public class warmup {
 
         for (int i =0; i <n ; i++)
 
-        System.out.println("Sum = " + sum);
+            System.out.println("Sum = " + sum);
 
         // zad 4
 
