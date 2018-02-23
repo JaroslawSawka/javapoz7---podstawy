@@ -15,3 +15,6 @@ ctrl + alt + m - tworzenie metody
 ctrl + alt + enter - tworzy linie nad tą na której się znajduję
 shift + enter - przechodzi do końca linii
 ctrl + / - komentowanie kilku liczb na raz
+przerzucanie do metody ctrl alt m w za znaczonym kodzie
+istota programowania - rozbicie większego problemu na mniejsze elementy :)
+Math. ctrl + spacja , najechanie na metotę ctrl + q wyświetla co robi dana metoda
